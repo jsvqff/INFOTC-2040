@@ -1,0 +1,15 @@
+/Users/krcd58/Documents/IT-2040/fall2021/class_demos/AutoDemo/bin/Debug/net5.0/AutoDemo.deps.json
+/Users/krcd58/Documents/IT-2040/fall2021/class_demos/AutoDemo/bin/Debug/net5.0/AutoDemo.runtimeconfig.json
+/Users/krcd58/Documents/IT-2040/fall2021/class_demos/AutoDemo/bin/Debug/net5.0/AutoDemo.runtimeconfig.dev.json
+/Users/krcd58/Documents/IT-2040/fall2021/class_demos/AutoDemo/bin/Debug/net5.0/AutoDemo.dll
+/Users/krcd58/Documents/IT-2040/fall2021/class_demos/AutoDemo/bin/Debug/net5.0/ref/AutoDemo.dll
+/Users/krcd58/Documents/IT-2040/fall2021/class_demos/AutoDemo/bin/Debug/net5.0/AutoDemo.pdb
+/Users/krcd58/Documents/IT-2040/fall2021/class_demos/AutoDemo/obj/Debug/net5.0/AutoDemo.csprojAssemblyReference.cache
+/Users/krcd58/Documents/IT-2040/fall2021/class_demos/AutoDemo/obj/Debug/net5.0/AutoDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krcd58/Documents/IT-2040/fall2021/class_demos/AutoDemo/obj/Debug/net5.0/AutoDemo.AssemblyInfoInputs.cache
+/Users/krcd58/Documents/IT-2040/fall2021/class_demos/AutoDemo/obj/Debug/net5.0/AutoDemo.AssemblyInfo.cs
+/Users/krcd58/Documents/IT-2040/fall2021/class_demos/AutoDemo/obj/Debug/net5.0/AutoDemo.csproj.CoreCompileInputs.cache
+/Users/krcd58/Documents/IT-2040/fall2021/class_demos/AutoDemo/obj/Debug/net5.0/AutoDemo.dll
+/Users/krcd58/Documents/IT-2040/fall2021/class_demos/AutoDemo/obj/Debug/net5.0/ref/AutoDemo.dll
+/Users/krcd58/Documents/IT-2040/fall2021/class_demos/AutoDemo/obj/Debug/net5.0/AutoDemo.pdb
+/Users/krcd58/Documents/IT-2040/fall2021/class_demos/AutoDemo/obj/Debug/net5.0/AutoDemo.genruntimeconfig.cache

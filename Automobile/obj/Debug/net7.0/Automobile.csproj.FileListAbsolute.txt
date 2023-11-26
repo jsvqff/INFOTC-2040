@@ -1,0 +1,14 @@
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Automobile\bin\Debug\net7.0\Automobile.exe
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Automobile\bin\Debug\net7.0\Automobile.deps.json
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Automobile\bin\Debug\net7.0\Automobile.runtimeconfig.json
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Automobile\bin\Debug\net7.0\Automobile.dll
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Automobile\bin\Debug\net7.0\Automobile.pdb
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Automobile\obj\Debug\net7.0\Automobile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Automobile\obj\Debug\net7.0\Automobile.AssemblyInfoInputs.cache
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Automobile\obj\Debug\net7.0\Automobile.AssemblyInfo.cs
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Automobile\obj\Debug\net7.0\Automobile.csproj.CoreCompileInputs.cache
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Automobile\obj\Debug\net7.0\Automobile.dll
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Automobile\obj\Debug\net7.0\refint\Automobile.dll
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Automobile\obj\Debug\net7.0\Automobile.pdb
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Automobile\obj\Debug\net7.0\Automobile.genruntimeconfig.cache
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Automobile\obj\Debug\net7.0\ref\Automobile.dll
