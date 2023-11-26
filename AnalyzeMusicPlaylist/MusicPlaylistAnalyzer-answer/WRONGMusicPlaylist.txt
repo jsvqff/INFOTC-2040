@@ -1,0 +1,3 @@
+Name	Artist	Album	Genre	Size	Year	Plays
+Losing Touch	The Killers	Day & Age (Deluxe Version)	Alternative	9539055 2008	478
+Tranquilize (Feat. Lou Reed)	The Killers	Sawdust	Alternative	8405381 2007	433

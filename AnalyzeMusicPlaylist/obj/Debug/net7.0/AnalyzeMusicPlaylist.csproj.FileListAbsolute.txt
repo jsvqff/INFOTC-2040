@@ -1,0 +1,14 @@
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\AnalyzeMusicPlaylist\bin\Debug\net7.0\AnalyzeMusicPlaylist.exe
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\AnalyzeMusicPlaylist\bin\Debug\net7.0\AnalyzeMusicPlaylist.deps.json
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\AnalyzeMusicPlaylist\bin\Debug\net7.0\AnalyzeMusicPlaylist.runtimeconfig.json
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\AnalyzeMusicPlaylist\bin\Debug\net7.0\AnalyzeMusicPlaylist.dll
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\AnalyzeMusicPlaylist\bin\Debug\net7.0\AnalyzeMusicPlaylist.pdb
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\AnalyzeMusicPlaylist\obj\Debug\net7.0\AnalyzeMusicPlaylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\AnalyzeMusicPlaylist\obj\Debug\net7.0\AnalyzeMusicPlaylist.AssemblyInfoInputs.cache
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\AnalyzeMusicPlaylist\obj\Debug\net7.0\AnalyzeMusicPlaylist.AssemblyInfo.cs
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\AnalyzeMusicPlaylist\obj\Debug\net7.0\AnalyzeMusicPlaylist.csproj.CoreCompileInputs.cache
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\AnalyzeMusicPlaylist\obj\Debug\net7.0\AnalyzeMusicPlaylist.dll
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\AnalyzeMusicPlaylist\obj\Debug\net7.0\refint\AnalyzeMusicPlaylist.dll
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\AnalyzeMusicPlaylist\obj\Debug\net7.0\AnalyzeMusicPlaylist.pdb
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\AnalyzeMusicPlaylist\obj\Debug\net7.0\AnalyzeMusicPlaylist.genruntimeconfig.cache
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\AnalyzeMusicPlaylist\obj\Debug\net7.0\ref\AnalyzeMusicPlaylist.dll

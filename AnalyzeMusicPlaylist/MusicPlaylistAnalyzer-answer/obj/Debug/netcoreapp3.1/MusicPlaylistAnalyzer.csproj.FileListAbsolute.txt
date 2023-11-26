@@ -1,0 +1,21 @@
+/Users/tre/INFOTC 2040/MusicPlaylistAnalyzer/obj/Debug/netcoreapp3.1/MusicPlaylistAnalyzer.csprojAssemblyReference.cache
+/Users/tre/INFOTC 2040/MusicPlaylistAnalyzer/obj/Debug/netcoreapp3.1/MusicPlaylistAnalyzer.AssemblyInfoInputs.cache
+/Users/tre/INFOTC 2040/MusicPlaylistAnalyzer/obj/Debug/netcoreapp3.1/MusicPlaylistAnalyzer.AssemblyInfo.cs
+/Users/tre/INFOTC 2040/MusicPlaylistAnalyzer/bin/Debug/netcoreapp3.1/MusicPlaylistAnalyzer
+/Users/tre/INFOTC 2040/MusicPlaylistAnalyzer/bin/Debug/netcoreapp3.1/MusicPlaylistAnalyzer.deps.json
+/Users/tre/INFOTC 2040/MusicPlaylistAnalyzer/bin/Debug/netcoreapp3.1/MusicPlaylistAnalyzer.runtimeconfig.json
+/Users/tre/INFOTC 2040/MusicPlaylistAnalyzer/bin/Debug/netcoreapp3.1/MusicPlaylistAnalyzer.runtimeconfig.dev.json
+/Users/tre/INFOTC 2040/MusicPlaylistAnalyzer/bin/Debug/netcoreapp3.1/MusicPlaylistAnalyzer.dll
+/Users/tre/INFOTC 2040/MusicPlaylistAnalyzer/bin/Debug/netcoreapp3.1/MusicPlaylistAnalyzer.pdb
+/Users/tre/INFOTC 2040/MusicPlaylistAnalyzer/obj/Debug/netcoreapp3.1/MusicPlaylistAnalyzer.dll
+/Users/tre/INFOTC 2040/MusicPlaylistAnalyzer/obj/Debug/netcoreapp3.1/MusicPlaylistAnalyzer.pdb
+/Users/krcd58/Documents/IT-2040/fall2020/MA2/MusicPlaylistAnalyzer/bin/Debug/netcoreapp3.1/MusicPlaylistAnalyzer.deps.json
+/Users/krcd58/Documents/IT-2040/fall2020/MA2/MusicPlaylistAnalyzer/bin/Debug/netcoreapp3.1/MusicPlaylistAnalyzer.runtimeconfig.json
+/Users/krcd58/Documents/IT-2040/fall2020/MA2/MusicPlaylistAnalyzer/bin/Debug/netcoreapp3.1/MusicPlaylistAnalyzer.runtimeconfig.dev.json
+/Users/krcd58/Documents/IT-2040/fall2020/MA2/MusicPlaylistAnalyzer/bin/Debug/netcoreapp3.1/MusicPlaylistAnalyzer.dll
+/Users/krcd58/Documents/IT-2040/fall2020/MA2/MusicPlaylistAnalyzer/bin/Debug/netcoreapp3.1/MusicPlaylistAnalyzer.pdb
+/Users/krcd58/Documents/IT-2040/fall2020/MA2/MusicPlaylistAnalyzer/obj/Debug/netcoreapp3.1/MusicPlaylistAnalyzer.csprojAssemblyReference.cache
+/Users/krcd58/Documents/IT-2040/fall2020/MA2/MusicPlaylistAnalyzer/obj/Debug/netcoreapp3.1/MusicPlaylistAnalyzer.AssemblyInfoInputs.cache
+/Users/krcd58/Documents/IT-2040/fall2020/MA2/MusicPlaylistAnalyzer/obj/Debug/netcoreapp3.1/MusicPlaylistAnalyzer.AssemblyInfo.cs
+/Users/krcd58/Documents/IT-2040/fall2020/MA2/MusicPlaylistAnalyzer/obj/Debug/netcoreapp3.1/MusicPlaylistAnalyzer.dll
+/Users/krcd58/Documents/IT-2040/fall2020/MA2/MusicPlaylistAnalyzer/obj/Debug/netcoreapp3.1/MusicPlaylistAnalyzer.pdb
