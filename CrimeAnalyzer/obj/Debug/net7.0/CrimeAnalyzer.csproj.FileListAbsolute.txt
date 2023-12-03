@@ -1,0 +1,14 @@
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\CrimeAnalyzer\bin\Debug\net7.0\CrimeAnalyzer.exe
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\CrimeAnalyzer\bin\Debug\net7.0\CrimeAnalyzer.deps.json
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\CrimeAnalyzer\bin\Debug\net7.0\CrimeAnalyzer.runtimeconfig.json
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\CrimeAnalyzer\bin\Debug\net7.0\CrimeAnalyzer.dll
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\CrimeAnalyzer\bin\Debug\net7.0\CrimeAnalyzer.pdb
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\CrimeAnalyzer\obj\Debug\net7.0\CrimeAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\CrimeAnalyzer\obj\Debug\net7.0\CrimeAnalyzer.AssemblyInfoInputs.cache
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\CrimeAnalyzer\obj\Debug\net7.0\CrimeAnalyzer.AssemblyInfo.cs
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\CrimeAnalyzer\obj\Debug\net7.0\CrimeAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\CrimeAnalyzer\obj\Debug\net7.0\CrimeAnalyzer.dll
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\CrimeAnalyzer\obj\Debug\net7.0\refint\CrimeAnalyzer.dll
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\CrimeAnalyzer\obj\Debug\net7.0\CrimeAnalyzer.pdb
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\CrimeAnalyzer\obj\Debug\net7.0\CrimeAnalyzer.genruntimeconfig.cache
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\CrimeAnalyzer\obj\Debug\net7.0\ref\CrimeAnalyzer.dll
