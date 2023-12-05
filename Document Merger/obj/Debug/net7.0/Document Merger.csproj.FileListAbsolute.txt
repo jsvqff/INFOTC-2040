@@ -1,0 +1,14 @@
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Document Merger\bin\Debug\net7.0\Document Merger.exe
+c:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Document Merger\bin\Debug\net7.0\Document Merger.deps.json
+c:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Document Merger\bin\Debug\net7.0\Document Merger.runtimeconfig.json
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Document Merger\bin\Debug\net7.0\Document Merger.dll
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Document Merger\bin\Debug\net7.0\Document Merger.pdb
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Document Merger\obj\Debug\net7.0\Document Merger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Document Merger\obj\Debug\net7.0\Document Merger.AssemblyInfoInputs.cache
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Document Merger\obj\Debug\net7.0\Document Merger.AssemblyInfo.cs
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Document Merger\obj\Debug\net7.0\Document Merger.csproj.CoreCompileInputs.cache
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Document Merger\obj\Debug\net7.0\Document Merger.dll
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Document Merger\obj\Debug\net7.0\refint\Document Merger.dll
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Document Merger\obj\Debug\net7.0\Document Merger.pdb
+c:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Document Merger\obj\Debug\net7.0\Document Merger.genruntimeconfig.cache
+c:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Document Merger\obj\Debug\net7.0\ref\Document Merger.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a1wkr9kDXklBgMw5ZY2jbft/4Rj5uTJTvogsjf58Zjulf3sTBg8WAnUhiL82Wcupict7RD8u6Zt7k0KDIV+qDQ==",
+  "success": true,
+  "projectFilePath": "/Users/krcd58/Documents/IT-2040/spring2022/Document/Document.csproj",
+  "expectedPackageFiles": [
+    "/Users/krcd58/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

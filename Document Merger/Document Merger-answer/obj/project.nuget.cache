@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zClhEiNRi3vs9nIc2ExXsIoRXJgDE4yXA3Q9ueAtm9LisDlPLgC4aYHeerQtYHpxDJ1gEcDWp3UCkpHKFjUFqw==",
+  "success": true,
+  "projectFilePath": "/Users/krcd58/Documents/IT-2040/spring2020/Documnet Merger/Documnet Merger.csproj",
+  "expectedPackageFiles": [
+    "/Users/krcd58/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
