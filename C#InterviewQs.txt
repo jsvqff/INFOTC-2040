@@ -1,0 +1,62 @@
+1. What is C#?
+   - C# is a modern, high-level, object-oriented programming language developed by Microsoft for building a wide range of software applications.
+
+2. What is .NET Core?
+   - .NET Core is an open-source, cross-platform framework for creating and running software applications, providing runtime, libraries, and tools.
+
+3. What is a class, what is an object, and how are they related?
+   - A class is a blueprint for creating objects, while an object is an instance of a class that possesses its own data and behavior, following the class's template.
+
+4. What is the difference between a class and a struct?
+   - Classes are reference types, stored on the heap, and support inheritance, while structs are value types, stored on the stack, and do not support inheritance.
+
+5. What is an enum and when should it be used?
+   - An enum is a value type used to define a set of named constants, often used to represent options or choices in code.
+
+6. What is the difference between break and continue?
+   - "break" is used to exit a loop prematurely, while "continue" is used to skip the current iteration and proceed to the next one.
+
+7. Can "this" be used with a static method?
+   - No, "this" cannot be used with a static method as it operates at the class level, not with instances.
+
+8. What is the difference between string and StringBuilder in C#?
+   - A "string" is immutable, while "StringBuilder" is mutable, making it more efficient for string manipulation.
+
+9. What are properties?
+   - Properties are used to control access to class fields, offering get and set methods for reading and modifying values.
+
+10. What are value types in C#? Provide one example value type in C#.
+    - Value types directly store their data. An example is "int."
+
+11. What are reference types in C#? Provide one example of a reference type in C#.
+    - Reference types store references to data. An example is a class, like "List<T>."
+
+12. What is encapsulation?
+    - Encapsulation is the principle of bundling data and methods into a class, protecting data and controlling access.
+
+13. What are nullable types?
+    - Nullable types allow value types to have a null value, commonly used for scenarios where a value might be missing.
+
+14. What is a namespace?
+    - A namespace is a way to organize and group related types in C#, preventing naming conflicts and aiding code management.
+
+15. What is the purpose of the "using" statement?
+    - The "using" statement is used to include namespaces and manage resources like files or database connections.
+
+16. What is a constructor? When is it called?
+    - A constructor initializes objects and is called when an instance is created using "new."
+
+17. Does C# support the functional programming paradigm?
+    - Yes, C# supports functional programming with features like lambda expressions and LINQ, enabling a more functional coding style.
+
+18. Explain the static keyword.
+    - "static" is used to define members that belong to the class, rather than instances, and can be accessed without creating objects.
+
+19. How is exception handling done in C#?
+    - Exception handling is accomplished using try-catch blocks to manage and respond to exceptions, and a finally block for cleanup.
+
+20. What is LINQ and how/when is it used?
+    - LINQ is a feature for querying and manipulating data in a declarative way, often used for working with collections and databases.
+
+21. What is the difference between "as" and "is" operators in C#?
+    - "is" checks if an object is of a certain type and returns a boolean, while "as" safely attempts type casting and returns null if unsuccessful.

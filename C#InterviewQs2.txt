@@ -1,0 +1,79 @@
+1. What are the differences between a Class and a Struct?
+
+   In C#, a class is a reference type, and it is typically used for creating objects with complex behaviors. On the other hand, a struct is a value type, suitable for lightweight objects, and it is often used when performance and memory are critical. Classes support inheritance and have a default constructor, while structs don't support inheritance and have a parameterless constructor provided by default.
+
+2. When and where is the finally keyword used?
+
+   The finally keyword in C# is used in a try-catch-finally block. It ensures that a specific block of code, placed within the finally block, is executed regardless of whether an exception is thrown or not. This is helpful for tasks like resource cleanup, ensuring that critical operations are completed even in the presence of exceptions.
+
+3. Name some properties of an array.
+
+   Some properties of an array in C# include Length (providing the number of elements in the array), Rank (indicating the number of dimensions), and IsReadOnly (determining if the array is read-only).
+
+4. What is an escape sequence? Name some String escape sequences.
+
+   An escape sequence is a combination of characters in a string that represents a special character. In C#, common string escape sequences include '\n' for a new line, '\t' for a tab, '\"' for a double quote, and '\\' for a backslash.
+
+5. What are the basic String Operations? Explain.
+
+   Basic string operations in C# include concatenation (combining strings with the '+' operator), length retrieval (using the Length property), accessing individual characters (using indexing), and various methods like Substring, ToUpper, and ToLower for manipulating string content.
+
+6. What is the difference between continue and break statements?
+
+   The continue statement is used to skip the rest of the code inside a loop and move to the next iteration, while the break statement is used to exit the loop altogether and move to the code following the loop.
+
+7. Explain get and set accessor properties.
+
+   In C#, get and set accessor properties are used to control access to the private fields of a class. The get accessor retrieves the value of the property, and the set accessor assigns a value to the property. This encapsulation helps in maintaining the integrity of the data within the class.
+
+8. What is an object?
+
+   In C#, an object is an instance of a class. It is a runtime entity that combines data (attributes) and behavior (methods) defined by the class. Objects are created from classes and represent real-world entities in a program.
+
+9. What is a class?
+
+   A class in C# is a blueprint or template for creating objects. It defines the data members (fields) and methods that the objects created from the class will have. Classes support encapsulation, inheritance, and polymorphism.
+
+10. Can we use "this" command within a static method?
+
+    No, the "this" keyword refers to the current instance of a class, and static methods are associated with the class itself rather than a specific instance. Therefore, the "this" keyword is not applicable within static methods.
+
+11. What is the difference between "method overriding" and "method overloading?"
+
+    Method overriding occurs when a derived class provides a specific implementation for a method that is already defined in its base class. Method overloading, on the other hand, involves having multiple methods in the same class with the same name but different parameter lists.
+
+12. What are the differences between static, public and void?
+
+    "Static" is used to declare a member that belongs to the type itself rather than to instances of the type. "Public" is an access modifier that makes the associated member accessible from outside the class. "Void" is a return type indicating that a method does not return any value.
+
+13. What are value types?
+
+    Value types in C# are types that directly contain their data and are stored on the stack. Examples include simple types like int, float, and char, as well as structs.
+
+14. What are reference types?
+
+    Reference types in C# are types that store references to the actual data, and they are stored on the heap. Examples include class instances, arrays, delegates, and strings.
+
+15. If a return is provided in a try block, does the finally block execute?
+
+    Yes, the finally block will execute even if a return statement is present in the try block. The finally block is designed to ensure that certain code is executed regardless of whether an exception is thrown or not.
+
+16. How do you sort array elements in descending order?
+
+    You can use the Array.Sort method to sort array elements in ascending order. To sort in descending order, you can use the Reverse method after sorting: `Array.Sort(array); Array.Reverse(array);`
+
+17. What is the difference between the "as" and "is" operators?
+
+    The "as" operator is used for explicit casting of reference types, and if the conversion is not possible, it returns null. The "is" operator is used for type checking, returning a boolean value indicating whether an object is of a specified type.
+
+18. What is enum?
+
+    An enum in C# is a value type that represents a set of named integral constants. It provides a way to create named values for a set of related items, making the code more readable and maintainable.
+
+19. What is the difference between an interface and an abstract class?
+
+    An interface in C# only contains method signatures, properties, events, and indexers. It defines a contract that implementing classes must follow. An abstract class, on the other hand, can contain method implementations, fields, and constructors. A class can implement multiple interfaces, but it can inherit from only one abstract class.
+
+20. What are partial classes?
+
+    Partial classes in C# allow a class, interface, or struct to be split into multiple source files. This is useful when working with code generation tools or when multiple developers are working on different parts of the same class. All the partial declarations must use the `partial` keyword, and they are combined at compile time.
