@@ -1,0 +1,14 @@
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\FinalProject.OnlineBankingApp\bin\Debug\net7.0\FinalProject.OnlineBankingApp.exe
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\FinalProject.OnlineBankingApp\bin\Debug\net7.0\FinalProject.OnlineBankingApp.deps.json
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\FinalProject.OnlineBankingApp\bin\Debug\net7.0\FinalProject.OnlineBankingApp.runtimeconfig.json
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\FinalProject.OnlineBankingApp\bin\Debug\net7.0\FinalProject.OnlineBankingApp.dll
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\FinalProject.OnlineBankingApp\bin\Debug\net7.0\FinalProject.OnlineBankingApp.pdb
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\FinalProject.OnlineBankingApp\obj\Debug\net7.0\FinalProject.OnlineBankingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\FinalProject.OnlineBankingApp\obj\Debug\net7.0\FinalProject.OnlineBankingApp.AssemblyInfoInputs.cache
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\FinalProject.OnlineBankingApp\obj\Debug\net7.0\FinalProject.OnlineBankingApp.AssemblyInfo.cs
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\FinalProject.OnlineBankingApp\obj\Debug\net7.0\FinalProject.OnlineBankingApp.csproj.CoreCompileInputs.cache
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\FinalProject.OnlineBankingApp\obj\Debug\net7.0\FinalProject.OnlineBankingApp.dll
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\FinalProject.OnlineBankingApp\obj\Debug\net7.0\refint\FinalProject.OnlineBankingApp.dll
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\FinalProject.OnlineBankingApp\obj\Debug\net7.0\FinalProject.OnlineBankingApp.pdb
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\FinalProject.OnlineBankingApp\obj\Debug\net7.0\FinalProject.OnlineBankingApp.genruntimeconfig.cache
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\FinalProject.OnlineBankingApp\obj\Debug\net7.0\ref\FinalProject.OnlineBankingApp.dll

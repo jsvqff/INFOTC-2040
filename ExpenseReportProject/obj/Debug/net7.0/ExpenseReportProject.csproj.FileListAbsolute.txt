@@ -1,0 +1,14 @@
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\ExpenseReportProject\bin\Debug\net7.0\ExpenseReportProject.exe
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\ExpenseReportProject\bin\Debug\net7.0\ExpenseReportProject.deps.json
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\ExpenseReportProject\bin\Debug\net7.0\ExpenseReportProject.runtimeconfig.json
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\ExpenseReportProject\bin\Debug\net7.0\ExpenseReportProject.dll
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\ExpenseReportProject\bin\Debug\net7.0\ExpenseReportProject.pdb
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\ExpenseReportProject\obj\Debug\net7.0\ExpenseReportProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\ExpenseReportProject\obj\Debug\net7.0\ExpenseReportProject.AssemblyInfoInputs.cache
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\ExpenseReportProject\obj\Debug\net7.0\ExpenseReportProject.AssemblyInfo.cs
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\ExpenseReportProject\obj\Debug\net7.0\ExpenseReportProject.csproj.CoreCompileInputs.cache
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\ExpenseReportProject\obj\Debug\net7.0\ExpenseReportProject.dll
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\ExpenseReportProject\obj\Debug\net7.0\refint\ExpenseReportProject.dll
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\ExpenseReportProject\obj\Debug\net7.0\ExpenseReportProject.pdb
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\ExpenseReportProject\obj\Debug\net7.0\ExpenseReportProject.genruntimeconfig.cache
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\ExpenseReportProject\obj\Debug\net7.0\ref\ExpenseReportProject.dll

@@ -1,0 +1,15 @@
+/Users/krcd58/Documents/IT-2040/FA2023/solutions/ExpenseReport/bin/Debug/net7.0/ExpenseReport
+/Users/krcd58/Documents/IT-2040/FA2023/solutions/ExpenseReport/bin/Debug/net7.0/ExpenseReport.deps.json
+/Users/krcd58/Documents/IT-2040/FA2023/solutions/ExpenseReport/bin/Debug/net7.0/ExpenseReport.runtimeconfig.json
+/Users/krcd58/Documents/IT-2040/FA2023/solutions/ExpenseReport/bin/Debug/net7.0/ExpenseReport.dll
+/Users/krcd58/Documents/IT-2040/FA2023/solutions/ExpenseReport/bin/Debug/net7.0/ExpenseReport.pdb
+/Users/krcd58/Documents/IT-2040/FA2023/solutions/ExpenseReport/obj/Debug/net7.0/ExpenseReport.csproj.AssemblyReference.cache
+/Users/krcd58/Documents/IT-2040/FA2023/solutions/ExpenseReport/obj/Debug/net7.0/ExpenseReport.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krcd58/Documents/IT-2040/FA2023/solutions/ExpenseReport/obj/Debug/net7.0/ExpenseReport.AssemblyInfoInputs.cache
+/Users/krcd58/Documents/IT-2040/FA2023/solutions/ExpenseReport/obj/Debug/net7.0/ExpenseReport.AssemblyInfo.cs
+/Users/krcd58/Documents/IT-2040/FA2023/solutions/ExpenseReport/obj/Debug/net7.0/ExpenseReport.csproj.CoreCompileInputs.cache
+/Users/krcd58/Documents/IT-2040/FA2023/solutions/ExpenseReport/obj/Debug/net7.0/ExpenseReport.dll
+/Users/krcd58/Documents/IT-2040/FA2023/solutions/ExpenseReport/obj/Debug/net7.0/refint/ExpenseReport.dll
+/Users/krcd58/Documents/IT-2040/FA2023/solutions/ExpenseReport/obj/Debug/net7.0/ExpenseReport.pdb
+/Users/krcd58/Documents/IT-2040/FA2023/solutions/ExpenseReport/obj/Debug/net7.0/ExpenseReport.genruntimeconfig.cache
+/Users/krcd58/Documents/IT-2040/FA2023/solutions/ExpenseReport/obj/Debug/net7.0/ref/ExpenseReport.dll

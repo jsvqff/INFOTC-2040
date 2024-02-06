@@ -1,0 +1,33 @@
+*****************
+Expense Report
+*****************
+
+Total Cost of Purchases: $5,636.63
+Number of Purchases: 162
+Average Purchase: $34.79
+
+Cost of Purchases by Category
+-------------------------
+Merchandise: $3551.12
+Dining: $581.23
+Health Care: $497.27
+Other: $67.96
+Other Services: $883.71
+Other Travel: $55.34
+
+Number of Purchases by Category
+-------------------------
+Merchandise Purchases: 113
+Dining Purchases: 20
+Health Care Purchases: 6
+Other Purchases: 5
+Other Services Purchases: 14
+Other Travel Purchases: 4
+
+Most Expensive purchase
+-------------------------
+ Merchandise: $312.09
+
+Least Expensive purchase
+-------------------------
+ Merchandise: $1.94
