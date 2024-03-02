@@ -1,0 +1,14 @@
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\SalesDataAnalyzerProject\bin\Debug\net7.0\SalesDataAnalyzerProject.exe
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\SalesDataAnalyzerProject\bin\Debug\net7.0\SalesDataAnalyzerProject.deps.json
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\SalesDataAnalyzerProject\bin\Debug\net7.0\SalesDataAnalyzerProject.runtimeconfig.json
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\SalesDataAnalyzerProject\bin\Debug\net7.0\SalesDataAnalyzerProject.dll
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\SalesDataAnalyzerProject\bin\Debug\net7.0\SalesDataAnalyzerProject.pdb
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\SalesDataAnalyzerProject\obj\Debug\net7.0\SalesDataAnalyzerProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\SalesDataAnalyzerProject\obj\Debug\net7.0\SalesDataAnalyzerProject.AssemblyInfoInputs.cache
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\SalesDataAnalyzerProject\obj\Debug\net7.0\SalesDataAnalyzerProject.AssemblyInfo.cs
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\SalesDataAnalyzerProject\obj\Debug\net7.0\SalesDataAnalyzerProject.csproj.CoreCompileInputs.cache
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\SalesDataAnalyzerProject\obj\Debug\net7.0\SalesDataAnalyzerProject.dll
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\SalesDataAnalyzerProject\obj\Debug\net7.0\refint\SalesDataAnalyzerProject.dll
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\SalesDataAnalyzerProject\obj\Debug\net7.0\SalesDataAnalyzerProject.pdb
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\SalesDataAnalyzerProject\obj\Debug\net7.0\SalesDataAnalyzerProject.genruntimeconfig.cache
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\SalesDataAnalyzerProject\obj\Debug\net7.0\ref\SalesDataAnalyzerProject.dll
