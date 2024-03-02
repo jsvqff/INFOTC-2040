@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JDaXzVRCLpzQXbOJG6dGDspw00e0e6t+HGqgEwugpY4zzZfl6I1UE0HxiQGNbI7sYtKfnu5vRNCu66P56YTusw==",
+  "success": true,
+  "projectFilePath": "/Users/krcd58/Documents/IT-2040/fall2022/MenuSystem/MenuSystem.csproj",
+  "expectedPackageFiles": [
+    "/Users/krcd58/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

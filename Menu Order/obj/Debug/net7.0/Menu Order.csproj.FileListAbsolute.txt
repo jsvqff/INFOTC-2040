@@ -1,0 +1,14 @@
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Menu Order\bin\Debug\net7.0\Menu Order.exe
+c:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Menu Order\bin\Debug\net7.0\Menu Order.deps.json
+c:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Menu Order\bin\Debug\net7.0\Menu Order.runtimeconfig.json
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Menu Order\bin\Debug\net7.0\Menu Order.dll
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Menu Order\bin\Debug\net7.0\Menu Order.pdb
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Menu Order\obj\Debug\net7.0\Menu Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Menu Order\obj\Debug\net7.0\Menu Order.AssemblyInfoInputs.cache
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Menu Order\obj\Debug\net7.0\Menu Order.AssemblyInfo.cs
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Menu Order\obj\Debug\net7.0\Menu Order.csproj.CoreCompileInputs.cache
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Menu Order\obj\Debug\net7.0\Menu Order.dll
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Menu Order\obj\Debug\net7.0\refint\Menu Order.dll
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Menu Order\obj\Debug\net7.0\Menu Order.pdb
+c:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Menu Order\obj\Debug\net7.0\Menu Order.genruntimeconfig.cache
+c:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Menu Order\obj\Debug\net7.0\ref\Menu Order.dll
