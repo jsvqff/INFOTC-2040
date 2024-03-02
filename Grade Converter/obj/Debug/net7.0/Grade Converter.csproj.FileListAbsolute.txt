@@ -1,0 +1,14 @@
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Grade Converter\bin\Debug\net7.0\Grade Converter.exe
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Grade Converter\bin\Debug\net7.0\Grade Converter.deps.json
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Grade Converter\bin\Debug\net7.0\Grade Converter.runtimeconfig.json
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Grade Converter\bin\Debug\net7.0\Grade Converter.dll
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Grade Converter\bin\Debug\net7.0\Grade Converter.pdb
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Grade Converter\obj\Debug\net7.0\Grade Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Grade Converter\obj\Debug\net7.0\Grade Converter.AssemblyInfoInputs.cache
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Grade Converter\obj\Debug\net7.0\Grade Converter.AssemblyInfo.cs
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Grade Converter\obj\Debug\net7.0\Grade Converter.csproj.CoreCompileInputs.cache
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Grade Converter\obj\Debug\net7.0\Grade Converter.dll
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Grade Converter\obj\Debug\net7.0\refint\Grade Converter.dll
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Grade Converter\obj\Debug\net7.0\Grade Converter.pdb
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Grade Converter\obj\Debug\net7.0\Grade Converter.genruntimeconfig.cache
+C:\Users\jimv5\OneDrive\Desktop\Fall 2023 Classes\INFOTC 2040 Culmer\Grade Converter\obj\Debug\net7.0\ref\Grade Converter.dll
